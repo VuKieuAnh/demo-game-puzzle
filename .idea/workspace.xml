@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35382b34-9fe8-4281-8dae-9559c290762f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_CbtvywjpLsvnY/image1_part_001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image1/image1_part_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_CbtvywjpLsvnY/image1_part_002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image1/image1_part_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_CbtvywjpLsvnY/image1_part_003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image1/image1_part_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_CbtvywjpLsvnY/image1_part_004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image1/image1_part_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_CbtvywjpLsvnY/image1_part_005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image1/image1_part_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_Txye8mhYuz/image2_part (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2/image2_part (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_Txye8mhYuz/image2_part (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2/image2_part (2).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_Txye8mhYuz/image2_part (3).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2/image2_part (3).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_Txye8mhYuz/image2_part (4).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2/image2_part (4).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_Txye8mhYuz/image2_part (5).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image2/image2_part (5).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_uLT78oqSnclCIqs/image3_part (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image3/image3_part_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_uLT78oqSnclCIqs/image3_part (2).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image3/image3_part_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_uLT78oqSnclCIqs/image3_part (3).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image3/image3_part (3).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_uLT78oqSnclCIqs/image3_part (4).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image3/image3_part (4).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cut_images_uLT78oqSnclCIqs/image3_part (5).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image3/image3_part (5).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle.html" beforeDir="false" afterPath="$PROJECT_DIR$/puzzle.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g1mivjh2mH8qgtwfXth3obzVwT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="puzzle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Puzzle/puzzle.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.puzzle.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35382b34-9fe8-4281-8dae-9559c290762f" name="Default Changelist" comment="" />
+      <created>1597290603890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597290603890</updated>
+      <workItem from="1597290604937" duration="4345000" />
+      <workItem from="1597389668168" duration="2720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1755" y="205" key="CommitChangelistDialog2" timestamp="1597389742346">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1755" y="205" key="CommitChangelistDialog2/0.23.1280.729/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597389742346" />
+    <state x="1767" y="366" key="Vcs.Push.Dialog.v2" timestamp="1597389689016">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1767" y="366" key="Vcs.Push.Dialog.v2/0.23.1280.729/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597389689016" />
+    <state x="1978" y="522" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597389701674">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1978" y="522" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.729/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597389701674" />
+    <state x="1832" y="389" width="670" height="676" key="search.everywhere.popup" timestamp="1597389715384">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1832" y="389" width="670" height="676" key="search.everywhere.popup/0.23.1280.729/1280.23.1920.1057@1280.23.1920.1057" timestamp="1597389715384" />
+  </component>
+</project>
